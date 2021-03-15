@@ -1,0 +1,7 @@
+import introtodeeplearning.util
+
+import introtodeeplearning.lab1
+import introtodeeplearning.lab2
+import introtodeeplearning.lab3
+import introtodeeplearning.lab4
+import introtodeeplearning.lab5

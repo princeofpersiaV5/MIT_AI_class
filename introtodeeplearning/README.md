@@ -1,0 +1,1 @@
+NOTE: This is a helper package for the labs. Do not run any of these files manually instead they should be accessed within the lab jupyter notebooks. Navigate up a directory and into each of the labs to view questions and solutions. 
